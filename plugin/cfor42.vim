@@ -1,4 +1,4 @@
-autocmd filetype c setlocal nosmarttab tabstop=4 softtabstop=0 shiftwidth=4 tw=80
+autocmd filetype c setlocal nosmarttab noexpandtab tabstop=4 softtabstop=0 shiftwidth=4 tw=80
 
 let g:c_syntax_for_h=1
 
