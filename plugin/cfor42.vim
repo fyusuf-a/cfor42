@@ -14,3 +14,4 @@ let g:neomake_c_norminette_maker = {
 	\ 'errorformat': '%PNorme: %f,%IError: %m,%IError (line %l): %m,%IError (line %l\, col %c): %m'
 	\ }
 let g:neomake_c_enabled_makers = ['gcc', 'norminette']
+"'errorformat': '%PNorme: %f,%IError: %m,%IError (line %l): %m,%IError (line %l\, col %c): %m'
